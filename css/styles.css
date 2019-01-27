@@ -1,3 +1,7 @@
-.row {
+.row1 {
   height: 100vh;
+}
+
+.lead {
+  font-size: 15px;
 }
