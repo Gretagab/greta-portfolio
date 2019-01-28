@@ -10,7 +10,7 @@ Possible user flows are:
 2. Nav bar --> Blog
 3. Cover -->Read more
 4. Projects --> Simple web site
-5. Social media icons
+5. Social media icons 
 
 ## Installation
 
