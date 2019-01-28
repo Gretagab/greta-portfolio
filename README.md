@@ -2,6 +2,14 @@
 
 This is Greta's Portfolio website, with some about info, her skills, projects and contact information
 
+## The project status 
+The project is still being developed/worked on. Though some links are active.
+
+1. Nav bar --> Work --> Simple web page
+2. Nav bar --> Blog
+3. Cover -->Read more
+4. Projects --> Simple web site
+
 ## Installation
 
 Clone greta-portfolio repository from GitHub to be able to run it.
@@ -17,7 +25,6 @@ Clone greta-portfolio repository from GitHub to be able to run it.
 ## Technologies
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap 3
 
-## The project status 
-The project is still being developed/worked on.
+
