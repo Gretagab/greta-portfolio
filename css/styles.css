@@ -1,7 +1,12 @@
-.row1 {
+#row1 {
   height: 100vh;
 }
 
 .lead {
   font-size: 15px;
+}
+
+#pic1 {
+  max-width: 100%;
+  height: auto;
 }
