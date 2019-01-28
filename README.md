@@ -1,6 +1,6 @@
 # Greta's Portfolio
 
-This is Greta's Portfolio website, with some about info, her skills, projects and contact information
+Fully responsive portfolio website, with some about info, her skills, projects and contact information
 
 ## The project status 
 The project is still being developed/worked on. Though some links are active.
@@ -26,5 +26,6 @@ Clone greta-portfolio repository from GitHub to be able to run it.
 - HTML
 - CSS
 - Bootstrap 3
+- Icons by Font Awesome
 
 
