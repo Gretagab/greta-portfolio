@@ -10,3 +10,13 @@
   max-width: 100%;
   height: auto;
 }
+
+
+#me {
+  float: left;
+  max-width: 40%;
+  height: auto;
+  margin: 12px;
+  border: 5px solid lightblue;
+  background-color: orange;
+}
